@@ -7,14 +7,8 @@ This repository contains the source code and supporting files for Assignment 1 o
 The purpose of this assignment is to demonstrate proficiency in Android app development (layouts, UI, activity lifecycle, basic user interaction).  
 
 ## 📁 Repository Structure  
-/ — root
-|-- AndroidManifest.xml # Android manifest file
-|-- MainActivity.kt # Main Kotlin source file
-|-- activity_main.xml # Layout XML for main activity
-|-- SS1.png … SS5.png # Screenshots of different app screens / states
-|-- AyushShuklaCA1.pdf # Assignment submission report / documentation
 
-
+- **`AndroidManifest.xml`**: Android manifest file.  
 - **`MainActivity.kt`**: Contains the main logic of the app.  
 - **`activity_main.xml`**: Defines the user interface layout.  
 - **`SS1.png` to `SS5.png`**: Screenshot images showing the UI / app behavior in various states.  
@@ -25,6 +19,7 @@ The purpose of this assignment is to demonstrate proficiency in Android app deve
 1. Clone the repository:  
    ```bash
    git clone https://github.com/ayushshukla8920/cse-224-ca1.git
+   ```
 2. Open the project in Android Studio (or your preferred Kotlin/Android IDE).
 3. Build and run the app on an emulator or a physical Android device (minimum SDK as per assignment requirements).
 4. The main activity will launch and show the UI defined in activity_main.xml.
